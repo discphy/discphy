@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <a href="https://discphy.notion.site/discphy-12f8d759fd374395b0ec4649879492d9">
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
 </a>
 
 
