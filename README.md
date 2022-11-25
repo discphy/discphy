@@ -27,7 +27,11 @@ public class DiscphyGithubApplication {
 
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=discphy&count_private=true&show_icons=true&theme=yeblu&?">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=discphy&count_private=true&show_icons=true&theme=yeblu&?">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discphy&layout=compact&theme=yeblu">
-<a href="https://solved.ac/profile/discphy"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=discphy"></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discphy&layout=compact&theme=yeblu">
+  <a href="https://solved.ac/profile/discphy"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=discphy"></a>
+</div>
