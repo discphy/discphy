@@ -20,7 +20,7 @@ public class DiscphyGithubApplication {
 ```
 
 <div align="center">    
-  <a href="https://discphy.notion.site/discphy-12f8d759fd374395b0ec4649879492d9"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"></a>
+  <a href="https://discphy.notion.site/Resume-bf63c898977645d185c95f9cef2b2a0b"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"></a>
   <a href="https://www.instagram.com/hanyoung.10"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://velog.io/@discphy"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
