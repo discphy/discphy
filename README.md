@@ -11,10 +11,12 @@
   <img src="https://prd-opgc-api.opgc.me/githubs/users/discphy/tag/?theme=basic" />
 </div>
 -->
-  
+
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=discphy&show_icons=true&border_color=434d58&include_all_commits=true">
 </div>
+-->
 
 <div align="right">  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiscphy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  
