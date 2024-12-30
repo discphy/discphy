@@ -6,9 +6,11 @@
   <img src="https://render.gitanimals.org/lines/discphy?pet-id=650551400155309364" width="1000" height="120"/>
 </a>
 
+<!--
 <div align="center">
   <img src="https://prd-opgc-api.opgc.me/githubs/users/discphy/tag/?theme=basic" />
 </div>
+-->
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=discphy&show_icons=true&border_color=434d58&include_all_commits=true">
