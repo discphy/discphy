@@ -2,9 +2,19 @@
 
 🏡 **Workspace** : [https://discphy.notion.site](https://discphy.notion.site/discphy/Workspace-9a4ab150e8fa4520a5d74abc1a91df18)  
 
+<!--
 <div align="center">
   <img src="https://render.gitanimals.org/lines/discphy?pet-id=650551400155309364" width="1000" height="120"/>
-</a>
+</div>
+-->
+
+<div align="center">
+<img
+  src="https://render.gitanimals.org/farms/discphy"
+  width="600"
+  height="300"
+/>
+</div>
 
 <!--
 <div align="center">
