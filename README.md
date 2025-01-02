@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://render.gitanimals.org/lines/discphy?pet-id=650551400155309364" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/discphy?pet-id=650551400155309364" width="1000" height="300"/>
 </div>
 
 
